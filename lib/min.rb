@@ -14,4 +14,3 @@ items = categories.flatten
 minvalue = items.min
 minvalue
 end
-
