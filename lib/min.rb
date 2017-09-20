@@ -9,6 +9,6 @@ require 'pry'
 # }
 
 def get_the_min(groceries)
-items = groceries.values
-items.min
+categories = groceries.values
+binding.pry
 end
